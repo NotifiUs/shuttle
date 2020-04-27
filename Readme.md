@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/NotifiUs/shuttle/master/shuttle.png" width="150"></p>
+<img src="https://raw.githubusercontent.com/NotifiUs/shuttle/master/shuttle.png" width="150">
 
 # Shuttle by NotifiUs, LLC
 
