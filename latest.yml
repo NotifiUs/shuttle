@@ -1,9 +1,9 @@
-version: 0.0.7
+version: 0.0.8
 files:
-  - url: Shuttle-Setup-0.0.7.exe
-    sha512: 1V1HkYCoUrVNYMEIR9XkuiKxjBvLXVm3MKulQFwP7kfISndnSkXFneFCCT3N8yTDj9xjtjH7NgsUTGreJlSEJA==
-    size: 52219113
+  - url: Shuttle-Setup-0.0.8.exe
+    sha512: ZKsGDNNgp1m4vbg/oO4p74422z162hgk29g4toBubNNvRL8heC6is6RaEZyW/+ailzRughvNng+HUvpjkmxF5g==
+    size: 53031304
     isAdminRightsRequired: true
-path: Shuttle-Setup-0.0.7.exe
-sha512: 1V1HkYCoUrVNYMEIR9XkuiKxjBvLXVm3MKulQFwP7kfISndnSkXFneFCCT3N8yTDj9xjtjH7NgsUTGreJlSEJA==
-releaseDate: '2020-04-27T00:35:44.624Z'
+path: Shuttle-Setup-0.0.8.exe
+sha512: ZKsGDNNgp1m4vbg/oO4p74422z162hgk29g4toBubNNvRL8heC6is6RaEZyW/+ailzRughvNng+HUvpjkmxF5g==
+releaseDate: '2020-11-06T08:23:36.955Z'
